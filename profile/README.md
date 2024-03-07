@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This README is visible to everyone. On the right click view as member to view the README only visible to members. Please update this.
 <!--
 
 **Here are some ideas to get you started:**
