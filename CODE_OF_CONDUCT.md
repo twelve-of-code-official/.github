@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We, as the contributors of the [Mesure's Website GitHub repository](https://github.com/Mesure73L/Mesures-Website), aim to make our community a safe, respectful, and welcoming community to be in. We aim to provide a place where anyone can feel safe, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+We, as the contributors of [Twelve of Code](https://github.com/twelve-of-code-official), aim to make our community a safe, respectful, and welcoming community to be in. We aim to provide a place where anyone can feel safe, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 ## Examples of Safe and Unsafe Behavior
 

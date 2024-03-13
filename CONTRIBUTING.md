@@ -9,16 +9,16 @@ If you found a bug, follow these instructions:
 **Is there a security vulnerability?**
 
 - Yes
-  - Do not publicly report the issue. Instead, refer to our [Security Policy](https://github.com/Mesure73L/mesure.x10.mx/blob/main/.github/SECURITY.md).
+  - Do not publicly report the issue. Instead, refer to our [Security Policy](https://github.com/twelve-of-code-official/.github/blob/main/SECURITY.md).
 - No
   - Answer the following questions.
 
 **Do you know a patch?**
 
 - Yes
-  - Create a [bug report](https://github.com/Mesure73L/mesure.x10.mx/issues/new?assignees=&labels=bug&projects=&template=1-bug-report.yml) issue mentioning the issue, and say that you can patch it. Create a fork of the repository, make the patch, and create a pull request.
+  - Create a bug report issue mentioning the issue, and say that you can patch it. Create a fork of the repository, make the patch, and create a pull request.
 - No
-  - Create a [bug report](https://github.com/Mesure73L/mesure.x10.mx/issues/new?assignees=&labels=bug&projects=&template=1-bug-report.yml) issue describing it with detail.
+  - Create a bug report issue describing it with detail.
 
 ## Coding Conventions
 
