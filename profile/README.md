@@ -7,7 +7,7 @@ If you want to make your own challenges with our challenge packs feature, fork o
 ## Contributing
 
 > [!IMPORTANT]
-> Everything should follow our [Code of Conduct](https://github.com/twelve-of-code-official/.github/blob/680f5ed2ff1e9c37b13d1b27984d8338251080d1/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/twelve-of-code-official/.github/blob/680f5ed2ff1e9c37b13d1b27984d8338251080d1/SECURITY.md).
+> Everything should follow our [Code of Conduct](https://github.com/twelve-of-code-official/.github/blob/main/CODE_OF_CONDUCT.md), [Security Policy](https://github.com/twelve-of-code-official/.github/blob/main/SECURITY.md), and [Contribution Guidelines](https://github.com/twelve-of-code-official/.github/blob/main/CONTRIBUTING.md).
 
 Before you do anything, please create an issue in the appropriate repository. There, we can discuss the feature that you want to have added.
 
