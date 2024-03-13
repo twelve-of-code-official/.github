@@ -1,4 +1,4 @@
-Twelve of Code
+# Twelve of Code
 Twelve of Code is a customizable, year-round coding challenge. You participate in it on [our website](https://mesure.x10.mx/twelve-of-code). Challenges are released on the first, 10th, and 20th of every month.
 
 If you want to make your own challenges with our challenge packs feature, fork our [challenge template](https://github.com/twelve-of-code-official/challenge-template) and read the README.
