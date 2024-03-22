@@ -4,6 +4,10 @@ We, as the contributors of [Twelve of Code](https://github.com/twelve-of-code-of
 
 To help us reach our goals in providing a positive community for all, we ask that you follow these guidelines, using common sense, and to not abuse the absense of a situation listed.
 
+## Examples of Behavior
+> [!NOTE]
+> These are only examples. Please use common sense. We reserve the right to punish you for any behavior we find disrespectful or breaking any of our rules.
+
 ### Examples of Safe Behavior
 
 - Interacting positively within the community
@@ -23,7 +27,7 @@ To help us reach our goals in providing a positive community for all, we ask tha
 
 ## Punishments
 
-We, on behalf of Twelve of Code, will do our best to enforce these guidelines fairly. We reserve the right to lock, edit, or delete any discussion posts, comments, issues, code, and any other contributions that we deem inappropriate, offensive, harmful, or threatening, and we will provide our reasoning where applicable. If we edit one of your messages, you **may not** edit it back.
+We, on behalf of Twelve of Code, will do our best to enforce these guidelines fairly. We reserve the right to lock, edit, or delete any discussion posts, comments, issues, code, and any other contributions that we deem inappropriate, offensive, harmful, or threatening, and we will provide our reasoning where applicable.
 
 ### 1. Correction
 
