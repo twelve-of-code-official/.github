@@ -1,18 +1,17 @@
 # Code of Conduct
 
-We, as the contributors of [Twelve of Code](https://github.com/twelve-of-code-official), aim to make our community a safe, respectful, and welcoming community to be in. We aim to provide a place where anyone can feel safe, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
-
-## Examples of Safe and Unsafe Behavior
+We, as the contributors of [Twelve of Code](https://github.com/twelve-of-code-official), aim to make our community a safe, respectful, and welcoming community to be in. We aim to provide a place where anyone can feel safe, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion, and any other factor that can be used to discriminate against certain people.
 
 To help us reach our goals in providing a positive community for all, we ask that you follow these guidelines, using common sense, and to not abuse the absense of a situation listed.
 
 ### Examples of Safe Behavior
 
 - Interacting positively within the community
-- Giving helpful, respectful, and constructive feedback, regardless of if what someone did is good or not
+- Giving helpful, respectful, and constructive feedback
+- Telling someone if they did wrong, in a kind and respectful manner
 - Providing helpful, useful, and truthful information under any circumstances
 - Being respectful of other people's points of view or opinions
-- Willingly providing credit when asked
+- Always providing credit for work that is not yours
 
 ### Examples of Unsafe Behavior
 
@@ -22,9 +21,9 @@ To help us reach our goals in providing a positive community for all, we ask tha
 - Trolling, insulting or derogatory comments, and personal or political attacks
 - Harassment in any way
 
-## Enforcement
+## Punishments
 
-We, as the contrubutors, will try our best to enforce these guidelines fairly. We reserve the right to lock, edit, or delete any discussion posts, comments, issues, code, and any other contributions that we deem inappropriate, offensive, harmful, or threatening, and we will provide our reasoning where applicable.
+We, on behalf of Twelve of Code, will do our best to enforce these guidelines fairly. We reserve the right to lock, edit, or delete any discussion posts, comments, issues, code, and any other contributions that we deem inappropriate, offensive, harmful, or threatening, and we will provide our reasoning where applicable. If we edit one of your messages, you **may not** edit it back.
 
 ### 1. Correction
 
