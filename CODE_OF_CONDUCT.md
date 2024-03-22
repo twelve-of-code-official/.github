@@ -2,11 +2,11 @@
 
 We, as the contributors of [Twelve of Code](https://github.com/twelve-of-code-official), aim to make our community a safe, respectful, and welcoming community to be in. We aim to provide a place where anyone can feel safe, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion, and any other factor that can be used to discriminate against certain people.
 
-To help us reach our goals in providing a positive community for all, we ask that you follow these guidelines, using common sense, and to not abuse the absense of a situation listed.
+To help us reach our goals in providing a positive community for all, we ask that you follow these guidelines. We reserve the right to punish you if you do not.
 
 ## Examples of Behavior
-> [!NOTE]
-> These are only examples. Please use common sense. We reserve the right to punish you for any behavior we find disrespectful or breaking any of our rules.
+
+Please use common sense, and do not abuse the absence of a situation listed.
 
 ### Examples of Safe Behavior
 
@@ -20,8 +20,8 @@ To help us reach our goals in providing a positive community for all, we ask tha
 ### Examples of Unsafe Behavior
 
 - Using negative words or phrases
-- Giving feedback in a negative way, or attempting to make someone feel bad for what they did
-- Spreading misinformation, or refusing to provide neccessary information
+- Negatively giving feedback, or attempting to make someone feel bad for what they did
+- Spreading misinformation, or refusing to provide necessary information
 - Trolling, insulting or derogatory comments, and personal or political attacks
 - Harassment in any way
 
@@ -31,7 +31,7 @@ We, on behalf of Twelve of Code, will do our best to enforce these guidelines fa
 
 ### 1. Correction
 
-**When?** First time punishment.
+**When?** First-time punishment.
 
 **Why?** Use of words, phrases, or other activity that goes against our Code of Conduct that can be edited.
 
@@ -59,13 +59,13 @@ We, on behalf of Twelve of Code, will do our best to enforce these guidelines fa
 
 **Why?** Severely repeated patterns of instances of words, phrases, or other activity that goes against our Code of Conduct, or severely repeated patterns in inappropriate, offensive, harmful, or threatening activity.
 
-**How?** We will permanently block you from interacting with the community in any ways, including contributions to the project, interacting with social media posts, etc.
+**How?** We will permanently block you from interacting with the community in any way, including contributions to the project, interacting with social media posts, etc.
 
 ## Appeals
 
-If you think there was an error in a punishment that you, or someone who you are representing with permission, recieved, please privately [contact us](https://mesure.x10.mx/contact) with the following information:
+If you think there was an error in a punishment that you, or someone you are representing with permission, received, please privately [contact us](https://mesure.x10.mx/contact) with the following information:
 
-**Punishment -** Tell us what punishment you recived and the reason you recieved along with it.
+**Punishment -** Tell us what punishment you received and the reason you received along with it.
 
 **Reasoning -** Tell us why you think we made a mistake with your punishment.
 
@@ -73,10 +73,6 @@ If you think there was an error in a punishment that you, or someone who you are
 
 **Any other relevant information -** If you have other relevant information related to your punishment, feel free to include it in your message.
 
-We may respond to you with asking a question. Please answer as truthfully and quickly as possible. We will discuss your punishment privately and make a decision based off of the information that we gather.
+We may respond to you by asking a question. Please answer as truthfully and quickly as possible. We will discuss your punishment privately and make a decision based on the information that we gather.
 
-The Code of Conduct still applies while discussing the punishment that you recieved, and may negatively impact the punishment that you recieved, depending on the severity of the situation.
-
-## Other Notes
-
-We reserve the right to apply any punishment listed, under any circumstances that we believe is fair, for any reasons, even if it is not listed here.
+The Code of Conduct still applies while discussing the punishment that you received, and may negatively impact the punishment that you received, depending on the severity of the situation.
