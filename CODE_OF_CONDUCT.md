@@ -6,7 +6,7 @@ To help us reach our goals in providing a positive community for all, we ask tha
 
 ## Examples of Behavior
 
-Please use common sense, and do not abuse the absence of a situation listed.
+Please use common sense, and do not abuse the absence of a situation not listed.
 
 ### Examples of Safe Behavior
 
